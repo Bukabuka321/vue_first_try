@@ -1,4 +1,7 @@
 import MyButton from "../UI/MyButton.vue";
 import MyInput from "../UI/MyInput.vue";
+import MyDialog from "../UI/MyDialog.vue";
+import MySelect from "../UI/MySelect.vue";
+import NavBar from "../UI/NavBar.vue";
 
-export default [MyButton, MyInput];
+export default [MyButton, MyInput, MyDialog, MySelect, NavBar];
